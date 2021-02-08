@@ -1,0 +1,2 @@
+com/example/validatingforminput/ApplicationMockMvcTests.java
+ com.example.validatingforminput.ApplicationMockMvcTests
